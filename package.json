@@ -1,0 +1,22 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Vanderbilt Bootcamp - Week 14 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaelabray/burger.git"
+  },
+  "author": "Micaela Bray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micaelabray/burger/issues"
+  },
+  "homepage": "https://github.com/micaelabray/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
